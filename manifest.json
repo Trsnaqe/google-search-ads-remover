@@ -17,6 +17,11 @@
           "id": "addon@google-search-ads-remover.com"
         }
       },
+    "icons": [
+  {
+    "src": "logo/logo-test.png"
+  }
+],
     "permissions": [],
     "host_permissions": [],
     "content_scripts": [{
